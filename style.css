@@ -60,12 +60,16 @@
     color: red;
 }
 .content h2{
-    font-size: 60px;
+    font-size: 70px;
     margin-top: 80px;
-    color: lightcoral;
+    color: red;
 }
 .content h3{
-    font-size: 50px;
+    font-size: 70px;
     margin-top: 80px;
     color: blue;
 }
+.content h4{
+    font-size: 70px;
+    margin-top: 80px;
+    color: blue;
